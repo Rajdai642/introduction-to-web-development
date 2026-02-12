@@ -1,0 +1,33 @@
+body {
+    background-color: azure;
+}
+
+.main {
+    width: 350px;
+    background-color: whitesmoke;
+    margin-left: 20px;   
+    padding: 15px;
+    
+}
+img{
+    width: 100%;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;  
+}
+
+.header {
+    background-color: gainsboro;
+    text-align: center;
+}
+
+.info {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    color: gray;
+}
